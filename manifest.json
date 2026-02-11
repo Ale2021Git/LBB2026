@@ -11,7 +11,7 @@
       "src": "maskable_icon_x192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "maskable"
     },
     {
       "src": "maskable_icon_x512.png",
@@ -21,11 +21,12 @@
     },
     {
       "src": "maskable_icon_x512.png",
-      "sizes": "512x512",
+      "sizes": "853x853",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "maskable"
     }
   ]
 }
+
 
 
